@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+# 灵聚智能助理APP
+
+* 开源说明
