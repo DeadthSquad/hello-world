@@ -5,7 +5,7 @@
 2. APP中的导航、唤醒功能模块是灵聚SDK提供的增值服务，并不属于开源代码部分；
 
 
-## License
+## License [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ~~~
 Copyright(c) 2017 灵聚科技
 
