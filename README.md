@@ -2,7 +2,7 @@
 
 ## 开源说明
 1. 项目源代码遵循Apache License 2.0 开源协议；
-2. APP中的导航、唤醒功能模块是灵聚SDK提供的增值服务，并不属于开源代码部分；
+2. APP中的导航、唤醒功能模块是灵聚SDK提供的附加服务，并不属于开源代码部分；
 
 
 ## License [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
